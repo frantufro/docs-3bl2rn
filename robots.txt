@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-r7wntt.mawartoto88uad.cfd/sitemap.xml
